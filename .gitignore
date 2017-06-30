@@ -1,0 +1,14 @@
+
+target/gs-rest-service-0.1.0.jar
+
+*.class
+
+*.xml
+
+*.lst
+
+*.iml
+
+*.properties
+
+*.original
